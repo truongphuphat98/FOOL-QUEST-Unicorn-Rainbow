@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 06cbbfab43f6ea846876550e205364df
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bout_de_Bois_Poulailler_004
+    100002: Bout_de_Bois_Poulailler_005
+    100004: Bout_de_Bois_Poulailler_006
+    100006: Pilier_Toit_Poulailler
+    100008: Planche_Toit_Poulailler
+    100010: Planche_Toit_Poulailler_0024
+    100012: Planche_Toit_Poulailler_0025
+    100014: Planche_Toit_Poulailler_0026
+    100016: Planche_Toit_Poulailler_0027
+    100018: Planche_Toit_Poulailler_0028
+    100020: Planche_Toit_Poulailler_0029
+    100022: Planche_Toit_Poulailler_0030
+    100024: Planche_Toit_Poulailler_0031
+    100026: Planche_Toit_Poulailler_0032
+    100028: Planche_Toit_Poulailler_0033
+    100030: Planche_Toit_Poulailler_0034
+    100032: Planche_Toit_Poulailler_0035
+    100034: //RootNode
+    400000: Bout_de_Bois_Poulailler_004
+    400002: Bout_de_Bois_Poulailler_005
+    400004: Bout_de_Bois_Poulailler_006
+    400006: Pilier_Toit_Poulailler
+    400008: Planche_Toit_Poulailler
+    400010: Planche_Toit_Poulailler_0024
+    400012: Planche_Toit_Poulailler_0025
+    400014: Planche_Toit_Poulailler_0026
+    400016: Planche_Toit_Poulailler_0027
+    400018: Planche_Toit_Poulailler_0028
+    400020: Planche_Toit_Poulailler_0029
+    400022: Planche_Toit_Poulailler_0030
+    400024: Planche_Toit_Poulailler_0031
+    400026: Planche_Toit_Poulailler_0032
+    400028: Planche_Toit_Poulailler_0033
+    400030: Planche_Toit_Poulailler_0034
+    400032: Planche_Toit_Poulailler_0035
+    400034: //RootNode
+    2100000: lambert28
+    2100002: lambert1
+    2300000: Bout_de_Bois_Poulailler_004
+    2300002: Bout_de_Bois_Poulailler_005
+    2300004: Bout_de_Bois_Poulailler_006
+    2300006: Pilier_Toit_Poulailler
+    2300008: Planche_Toit_Poulailler_0024
+    2300010: Planche_Toit_Poulailler_0025
+    2300012: Planche_Toit_Poulailler_0026
+    2300014: Planche_Toit_Poulailler_0027
+    2300016: Planche_Toit_Poulailler_0028
+    2300018: Planche_Toit_Poulailler_0029
+    2300020: Planche_Toit_Poulailler_0030
+    2300022: Planche_Toit_Poulailler_0031
+    2300024: Planche_Toit_Poulailler_0032
+    2300026: Planche_Toit_Poulailler_0033
+    2300028: Planche_Toit_Poulailler_0034
+    2300030: Planche_Toit_Poulailler_0035
+    3300000: Bout_de_Bois_Poulailler_004
+    3300002: Bout_de_Bois_Poulailler_005
+    3300004: Bout_de_Bois_Poulailler_006
+    3300006: Pilier_Toit_Poulailler
+    3300008: Planche_Toit_Poulailler_0024
+    3300010: Planche_Toit_Poulailler_0025
+    3300012: Planche_Toit_Poulailler_0026
+    3300014: Planche_Toit_Poulailler_0027
+    3300016: Planche_Toit_Poulailler_0028
+    3300018: Planche_Toit_Poulailler_0029
+    3300020: Planche_Toit_Poulailler_0030
+    3300022: Planche_Toit_Poulailler_0031
+    3300024: Planche_Toit_Poulailler_0032
+    3300026: Planche_Toit_Poulailler_0033
+    3300028: Planche_Toit_Poulailler_0034
+    3300030: Planche_Toit_Poulailler_0035
+    4300000: Bout_de_Bois_Poulailler_004
+    4300002: Bout_de_Bois_Poulailler_005
+    4300004: Bout_de_Bois_Poulailler_006
+    4300006: Planche_Toit_Poulailler_0024
+    4300008: Planche_Toit_Poulailler_0025
+    4300010: Planche_Toit_Poulailler_0026
+    4300012: Planche_Toit_Poulailler_0027
+    4300014: Planche_Toit_Poulailler_0028
+    4300016: Planche_Toit_Poulailler_0029
+    4300018: Planche_Toit_Poulailler_0030
+    4300020: Planche_Toit_Poulailler_0031
+    4300022: Planche_Toit_Poulailler_0032
+    4300024: Planche_Toit_Poulailler_0033
+    4300026: Planche_Toit_Poulailler_0034
+    4300028: Planche_Toit_Poulailler_0035
+    4300030: Pilier_Toit_Poulailler
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
